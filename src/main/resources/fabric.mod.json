@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "clientsideskins",
+	"version": "${version}",
+	"name": "Client Side Skins",
+	"description": "Purely client-side custom skin, cape, and elytra loader with an in-game Options menu selector and level 0 client commands.",
+	"authors": [
+		"ClientSideSkins"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/"
+	},
+	"license": "CC0-1.0",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.clientsideskins.client.ClientSideSkinsClient"
+		]
+	},
+	"mixins": [
+		{
+			"config": "clientsideskins.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

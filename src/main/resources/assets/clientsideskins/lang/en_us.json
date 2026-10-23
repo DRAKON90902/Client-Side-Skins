@@ -1,0 +1,20 @@
+{
+	"clientsideskins.title": "Client Side Skins",
+	"clientsideskins.options.button": "Client Side Skins...",
+	"clientsideskins.tab.skins": "Skins (%s)",
+	"clientsideskins.tab.capes": "Capes (%s)",
+	"clientsideskins.tab.elytras": "Elytras (%s)",
+	"clientsideskins.entry.default": "[Default / Vanilla]",
+	"clientsideskins.entry.active": "Equipped",
+	"clientsideskins.model.label": "Arm Model",
+	"clientsideskins.model.auto": "Auto",
+	"clientsideskins.model.wide": "Wide (Classic)",
+	"clientsideskins.model.slim": "Slim (Alex)",
+	"clientsideskins.enabled.label": "Custom Skins",
+	"clientsideskins.button.reload": "Rescan Folder",
+	"clientsideskins.button.open_folder": "Open Folder",
+	"clientsideskins.preview.title": "Live Preview",
+	"clientsideskins.preview.drag_hint": "(Drag to rotate)",
+	"clientsideskins.key.category": "Client Side Skins",
+	"clientsideskins.key.open_menu": "Open Client Side Skins Menu"
+}
